@@ -26,4 +26,4 @@ ggplot(data = df,
   theme_bw() +
   theme(legend.position = "none")
 
-ggsave("bluepen.jpg", width = 14, height = 8, units = "in")
+# ggsave("bluepen.jpg", width = 14, height = 8, units = "in")
